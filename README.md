@@ -1,1 +1,1 @@
-# redux-counter
+# Shopping Cart
